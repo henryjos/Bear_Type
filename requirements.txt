@@ -1,5 +1,4 @@
 voila
 fastai.vision.all
 fastai.vision.widgets
-import pathlib
-from pathlib import Path
+pathlib
