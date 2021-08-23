@@ -1,4 +1,2 @@
 voila
-fastai.vision.all
-fastai.vision.widgets
-pathlib
+fastai>=0.0.16
